@@ -186,7 +186,7 @@ return [
         'en' => 'English',
         'ar' => 'العربية',
         'cs' => 'Česky',
-        'da' => '丹麦',
+        'da' => 'Dansk',
         'de' => 'Deutsch (Sie)',
         'de_informal' => 'Deutsch (Du)',
         'es' => 'Español',
